@@ -1,3 +1,5 @@
+> Note: Remember to exclude `minecraft:marker` from the genocide button
+
 All the entries are managed by an array situated in the storage `minecraft:resetspawners`, under `pools`.
 
 ## Syntax of an entry :**
